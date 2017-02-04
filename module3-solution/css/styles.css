@@ -1,0 +1,51 @@
+h1 {
+  color: black;
+  margin: 0;
+  bottom: 5px;
+  position: relative;
+}
+
+button {
+  float: right;
+}
+
+
+#ul1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li {
+  background-color: white;
+  border: 1px solid black;
+}
+
+header {
+  position: absolute;
+}
+#header-nav {
+  background-color: grey;
+}
+.navbar-brand {
+}
+
+.navbar-header {
+  float: left;
+  width: 100%;
+}
+
+#p1 {
+  margin-left: 10px;
+  height: 1000px;
+}
+
+#content {
+  background-color: grey;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.page-header {
+  margin-top: 70px;
+  border-bottom-width: 0px;
+}
