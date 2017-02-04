@@ -21,7 +21,8 @@ li {
 }
 
 header {
-  position: absolute;
+  height: 70px;
+  position: relative;
 }
 #header-nav {
   background-color: grey;
@@ -46,6 +47,6 @@ header {
 }
 
 .page-header {
-  margin-top: 70px;
+  margin-top: 20px;
   border-bottom-width: 0px;
 }
